@@ -42,7 +42,8 @@ public class DBUtil {
 
 		// step 2
 		String driver = "org.postgresql.Driver";
-        //JDBC localhost String url = "jdbc:postgresql://localhost:5432/ers";
+        //JDBC localhost 
+		//String url = "jdbc:postgresql://localhost:5432/ers";
 		String url = "jdbc:postgresql://ip-172-31-29-233.ec2.internal:8888/ers";
         String userName = "postgres";
         String password = "0917";
@@ -73,5 +74,4 @@ public class DBUtil {
 
 	public void releaseConnection(Connection connection) throws SQLException {
 	}
-
 }
