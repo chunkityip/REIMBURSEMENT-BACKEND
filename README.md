@@ -26,7 +26,7 @@ View pending/resolved requests of all employees, reimbursement requests of a spe
 
 # Getting Started
 Run at any Java IDE
-Run Angular by using "ng serve"
+Run Angular by using `ng serve`
 
 # Contributors
 Kazi Lenna
