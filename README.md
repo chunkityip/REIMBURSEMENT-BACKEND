@@ -18,6 +18,7 @@ View their home page.
 Submit a reimbursement request.
 View pending/solved reimbursement requests and their information.
 Update their information.
+
 A manager can :
 login, logout.
 Approve/Deny pending reimbursement requests.
